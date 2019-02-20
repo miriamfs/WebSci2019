@@ -1,0 +1,5 @@
+requests
+mysql-connector
+spacy
+plotly
+psutil
