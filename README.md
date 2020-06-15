@@ -1,10 +1,14 @@
 # Incels 2019
 
-This repository is linked to the following paper
-Farrell, Tracie; Fernandez, Miriam; Novotny, Jakub and Alani, Harith (2019). Exploring Misogyny across the Manosphere in Reddit. In: WebSci '19 Proceedings of the 10th ACM Conference on Web Science, pp. 87–96.
+This repository is linked to the following papers: 
+
+[1] Farrell, Tracie; Fernandez, Miriam; Novotny, Jakub and Alani, Harith (2019). Exploring Misogyny across the Manosphere in Reddit. In: WebSci '19 Proceedings of the 10th ACM Conference on Web Science, pp. 87–96.
 http://oro.open.ac.uk/61128/1/WebScience139.pdf
 
-If you use the provided lexicon or any of the code in your research please reference the paper rather than the repo, thx! :)
+[2] Farrell, Tracie; Araque, Oscar; Fernandez, Miriam and Alani, Harith (2020). On the use of Jargon and Word Embeddings to Explore Subculture within the Reddit’s Manosphere. In: WebSci'20 Proceedings of the 11th ACM Conference on Web Science.
+http://oro.open.ac.uk/70529/1/WebSci2020%20%281%29.pdf
+
+If you use the provided lexicon please reference [1] and if you use the provided annotated jargon, please reference [2], thx! :)
 
 
 This README describes the steps to install and run various parts of this project
