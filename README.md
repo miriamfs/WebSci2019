@@ -1,5 +1,12 @@
 # Incels 2019
 
+This repository is linked to the following paper
+Farrell, Tracie; Fernandez, Miriam; Novotny, Jakub and Alani, Harith (2019). Exploring Misogyny across the Manosphere in Reddit. In: WebSci '19 Proceedings of the 10th ACM Conference on Web Science, pp. 87–96.
+http://oro.open.ac.uk/61128/1/WebScience139.pdf
+
+If you use the provided lexicon or any of the code in your research please reference the paper rather than the repo, thx! :)
+
+
 This README describes the steps to install and run various parts of this project
 
 ## Installation
