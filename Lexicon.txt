@@ -2,7 +2,7 @@ LEXICON
 ============================
 
 CATEGORY_NAMES = {
-    1: 'Belitting',
+    1: 'Belittling',
     2: 'Flipping the narrative',
     3: 'Homophobia',
     4: 'Hostility',
